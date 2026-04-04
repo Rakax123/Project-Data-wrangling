@@ -1,10 +1,10 @@
 1. Ide Project:
     a. Judul project:
     Data Wrangling Untuk Analisis Perilaku Konsumen Brazil Terhadap Produk Yang Diperjualbelikan Di Perbelanjaan Daring Olist
+   
     b. Latar belakang, manfaat, dan tujuan beserta referensinya
     Mengetahui mengapa pelanggan membeli untuk mendapatkan wawasan (insight) mendalam tentang pelanggan guna mengambil keputusan bisnis yang lebih tepat sasaran dan efektif.
-
-    Latar Belakang
+   
    Industri E-Commerce di Brazil memiliki tantangan unik mengingat luas wilayah geografis yang besar dan ketimpangan ekonomi antar negara bagian. Olist, sebagai salah satu platform e-commerce terbesar, menghubungkan penjual kecil dengan pembeli di seluruh negeri. Namun, kepuasan pelanggan seringkali dipengaruhi oleh faktor eksternal di luar kendali produk itu sendiri, seperti infrastruktur logistik dan daya beli ekonomi daerah.
     Proyek ini dilatarbelakangi oleh kebutuhan untuk memahami bagaimana variabel makro (seperti GDP daerah) dan kinerja logistik (durasi pengiriman) berinteraksi dalam membentuk persepsi dan kepuasan pelanggan. Data mentah yang tersebar di berbagai sumber (transaksi internal, data pemerintah, dan kalender nasional) memerlukan proses Data Wrangling yang komprehensif sebelum dapat dianalisis.
 
